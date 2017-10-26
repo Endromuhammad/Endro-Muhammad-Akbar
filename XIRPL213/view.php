@@ -4,7 +4,7 @@
 	<title>Pendaftaran berhasil</title>
 </head>
 <body>
-<p align="center"><font size="5px"><b>SIGNUP SUCCESS</b></font></p>
+<p align="center"><font size="5px"><b>SIGN UP SUCCESS</b></font></p>
 	<table align="center">
 		<tr>
 			<td>Mobile Number or Email</td><td>:</td><td><?php echo $_POST["email"]; ?></td>

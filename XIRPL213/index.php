@@ -33,11 +33,11 @@
  </div>
  <br/>
  <div class="form-group">
-  <button class="btn btn-submit" type="submit">Daftar &nbsp; <i class="fa fa-hand-o-right" aria-hidden="true"></i></button>
+  <button class="btn btn-submit" type="submit">Daftar &nbsp; <i class="fa fa-hand-o-right"></i></button>
  </div>
  <br/>
  <br>
-<h5> By signing up, you agree to our Terms & Privacy Policy.</h5>
+<h5> By signing up, you agree to our</h5> <b>Terms & Privacy Policy.</b>
 <br/>
  </form>
 </body>
